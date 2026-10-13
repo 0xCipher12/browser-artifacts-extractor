@@ -1,0 +1,6 @@
+Output/
+build/
+dist/
+__pycache__/
+*.db
+.DS_Store
